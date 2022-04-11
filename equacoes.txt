@@ -1,0 +1,15 @@
+Excercício 1 
+
+S = (a b c) (d e)
+
+Excercício 2
+
+S = !((a + b + c) (d + e))
+
+Excercício 5
+
+S = (!a !b !c d) + (!a !b c d) + (a !b !c !d) + (a b c d)
+
+Excercício 6
+
+S = (!a b !c d) + (a !b !c !d) + (a !b c d)

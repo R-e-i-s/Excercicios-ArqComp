@@ -1,2 +1,1 @@
-# Excercicios-ArqComp
-Excercícios de ArqComp
+Excercícios da Lista Boolean de Arquitetura Computacional
